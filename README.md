@@ -39,4 +39,4 @@ about what it show and how to run it.
 - [Model Serving](acme-serving/) 
 
 
-[![Build Status](https://travis-ci.org/srowen/cdsw-simple-serving.svg?branch=master)](https://travis-ci.org/srowen/cdsw-simple-serving)
+[![Build Status](https://travis-ci.org/bkvarda/cdsw-simple-serving.svg?branch=master)](https://travis-ci.org/bkvarda/cdsw-simple-serving)
