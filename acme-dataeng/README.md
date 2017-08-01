@@ -15,7 +15,7 @@ The data needs to be ingested first, and will need a little cleaning before it's
 In order to prepare an Apache Hadoop environment for use with this example, check out
 this project in a location that has access to the cluster, such as an edge node.
 
-Run `hdfs dfs -put -f data/datatraining.txt /tmp` on an edge node, or
+Run `hdfs dfs -put -f data/datatraining.txt /user/clouderanB/` on an edge node, or
 within the Terminal provided by Cloudera Data Science Workbench.
 It can also be uploaded easily from a local file using Hue.
 It will create a training data set on HDFS that the code in this 
