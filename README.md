@@ -1,4 +1,4 @@
-# Super Modeling Lifecycle with ACME Occupancy Detection and Cloudera
+# Super Duper Modeling Lifecycle with ACME Occupancy Detection and Cloudera
 
 Daaata science is more than just modeling. The complete data science lifecycle also includes data
 engineering and model deployment. This project offers a simplified yet credible example of 
